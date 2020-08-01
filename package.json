@@ -1,0 +1,27 @@
+{
+  "name": "api-clicker-pierre",
+  "version": "1.0.0",
+  "description": "api for first peter's project",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolex222/api-clicker-pierre.git"
+  },
+  "keywords": [
+    "api",
+    "clicker"
+  ],
+  "author": "bolex222",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolex222/api-clicker-pierre/issues"
+  },
+  "homepage": "https://github.com/bolex222/api-clicker-pierre#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
